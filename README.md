@@ -20,7 +20,7 @@ python vae_example.py
 - GAN example
 
 ```
-python vae_example.py
+python gan_example.py
 ```
 
 ## Copyright
